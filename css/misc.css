@@ -1,0 +1,10 @@
+span.circle {
+	border-radius: 0.8em;
+	color: #666666;
+	display: inline-block;
+	font-weight: bold;
+	font-size:1.6em;
+	line-height: 1em;
+	text-align: center;
+	width: 1.6em;
+}
