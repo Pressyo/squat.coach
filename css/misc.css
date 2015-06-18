@@ -1,4 +1,4 @@
-span.circle {
+.circle {
 	border-radius: 0.8em;
 	color: #666666;
 	display: inline-block;
@@ -7,4 +7,19 @@ span.circle {
 	line-height: 1em;
 	text-align: center;
 	width: 1.6em;
+}
+
+
+.text p {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.456em;
+    margin-top: 15px;
+}
+
+.text ol li {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.456em;
+    margin-top: 15px;
 }
