@@ -2,7 +2,7 @@
 	HERO FLEXSLIDER
 ----------------------------------------*/
 $(document).ready(function() {
-	$('#main-slider').flexslider({
+	$('.flexslider').flexslider({
 		animation: "fade",//effects
 		slideshowSpeed: 3500,//duration
 		controlNav: false,
